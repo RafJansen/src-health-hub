@@ -1,3 +1,8 @@
+# Getting started
+
+Create Python virtual environment through uv
+Create R virutal environment through renv
+
 # Manuscript Template for a polyglot project combined R and Python
 
 This manuscript template is for a markdown-based publication with additional supporting notebook and markdown files, as well as supporting data, bibliography, and Quarto build configuration. It is based upon a new type of project in `Quarto`, Manuscripts. The final product will be rendered using `myst` for better quality

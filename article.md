@@ -111,25 +111,3 @@ In this paper, we look at recent seismicity data to see if we can see evidence o
 
 The earthquake dataset used in our analysis was generated from the [IGN web portal](https://www.ign.es/web/resources/volcanologia/tproximos/canarias.html) this is public data released under a permissive license. Data recorded using the network of Seismic Monitoring Stations on the island. A web scraping script was developed to pull data into a machine-readable form for analysis. That code tool [is available on GitHub](https://github.com/stevejpurves/ign-earthquake-data) along with a copy of recently updated data.
 
-# Results
-
-The dataset was loaded into a Jupyter notebook [visualization](./notebooks/visualization-figure-creation-seaborn.ipynb) and filtered down to La Palma events only. This results in 5465 data points which we then visualized to understand their distributions spatially, by depth, by magnitude and in time.
-
-```{figure} #fig-timeline
-:name: timeline
-
-Earthquake data over time (n=5465) to understand their distributions spatially, by depth, by magnitude and in time.
-This figure uses cell output from the [visualization notebook](./notebooks/visualization-figure-creation-seaborn.ipynb). The first line of the [cell](#fig-timeline) is `#| label: fig-timeline`. Referencing that label pulls in the output of the cell as a figure.
-```
-
-From our analysis in [Figure %s](#timeline), we can see 3 different systems in play.
-
-Firstly, the shallow earthquake swarm leading up to the eruption on 19th September, related to significant surface deformation and shallow magma intrusion.
-
-After the eruption, continuous shallow seismicity started at 10-15km corresponding to magma movement in the crustal reservoir.
-
-Subsequently, high magnitude events begin occurring at 30-40km depths corresponding to changes in the mantle reservoir. These are also continuous but occur with a lower frequency than in the crustal reservoir.
-
-# Conclusions
-
-From the analysis of the earthquake data collected and published by IGN for the period of 11 September through to 9 November 2021. Visualization of the earthquake events at different depths appears to confirm the presence of both mantle and crustal reservoirs as proposed by @marrero2019.
