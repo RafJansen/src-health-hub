@@ -1,0 +1,15 @@
+
+# ignore all data folders
+/data/
+
+# ignore all images folders
+/images/
+
+# ignore all images folders
+/_build/
+
+# ignore all github folders
+/.github/
+
+# ignore all quarto folders
+/.quarto/

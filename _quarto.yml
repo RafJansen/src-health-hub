@@ -1,0 +1,46 @@
+project:
+  type: manuscript
+  output-dir: _build
+  render: 
+    - article.qmd
+    - notebooks/*.qmd
+    - notebooks/*.ipynb
+
+manuscript:
+  article: article.qmd
+  resources:
+    - data/catalogoComunSV_1663233588717.csv
+    - data/lapalma_ign.csv
+  # code-links: [repo, devcontainer, binder]
+  code-links:
+    - text: Github
+      icon: github
+      href: https://github.com/ntluong95/INFLUX
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme: [default] #, theme-light.scss
+    toc: true
+    comments:
+      hypothesis: true # comment side bar on the right
+    number-sections: true
+    citations-hover: true
+    crossrefs-hover: true
+    toc-location: right
+    title-block-style: manuscript
+    # include-in-header:
+    #   - file: myst.html
+  # agu-pdf: 
+  #   notebook-links: inline
+  # docx: default
+  # jats: default
+
+citation:
+  container-title: Earth and Space Science
+  type: article-journal
+  issued: 2023-05-01
+  doi: "10.1136/bmj.m4290"
+
