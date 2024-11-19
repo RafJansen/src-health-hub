@@ -31,3 +31,4 @@ files/
 *_pdf_tex/
 env/
 renv/
+.env
