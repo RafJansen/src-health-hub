@@ -1,0 +1,752 @@
+Executive Summary
+INTRODUCTION
+1. Health “is a state of complete physical, 
+mental and social well-being and 
+not merely the absence of disease or infirmity”.  This is the definition of the 
+World Health Organization . Health status 
+has important social, economic, behavioural and environmental determinants and wide-ranging impacts. Typically health has been viewed largely in a human-only context. However, there is increasing recognition of the broader health concept that encompasses 
+other species, our ecosystems and the integral 
+ecological underpinnings of many drivers or protectors of health risks.
+2. Biological diversity  (biodiversity) is “the 
+variability among living organisms from 
+all sources including, inter alia, terrestrial, 
+marine and other aquatic ecosystems and the ecological complexes of which they are 
+part; this includes diversity within species, 
+between species and of ecosystems.” This 
+deﬁnition of the Convention on Biological Diversity (Article 2) reﬂects diﬀerent levels of biodiversity (inclu ding genetic diversity, 
+species and ecosystems) and the complexities of biotic and abiotic interactions. The attributes and interactions of biotic and abiotic components determine ecosystem processes and their properties. The eﬀective management of ecosystems as part of comprehensive public health measures requires that these various complex linkages 
+and interactions be identiﬁed and understood.3. Biodiversity underpins ecosystem 
+functioning and the provision of goods and services that are essential to human health and well-being. Ecosystems, 
+including our food production systems, depend on a whole host of organisms: primary producers, herbivores, carnivores, decomposers, pollinators, pathogens, natural enemies of pests. Services provided by ecosystems include food, clean air and both the quantity and quality of fresh water, medicines, spiritual and cultural values, 
+climate regulation, pest and disease regulation, 
+and disaster risk reduction. Biodiversity is a key environmental determinant of human health; the conservation and the sustainable use of biodiversity can beneﬁt human health by maintaining ecosystem services and by maintaining options for the future.
+4. The links between biodiversity and 
+health are manifested at various spatial and temporal scales. At a planetary scale, 
+ecosystems and biodiversity play a critical role 
+in determining the state of the Earth System, 
+regulating its material and energy ﬂows and its 
+responses to abrupt and gradual change. At a more intimate level, the human microbiota – the symbiotic microbial communities present 
+on our gut, skin, respiratory and urino-genital 
+tracts, contribute to our nutrition, can help regulate our immune system, and prevent infections.GLEN BOWES
+1 Connecting Global Priorities: Biodiversity and Human Health5. Biodiversity and human health, and 
+the respective policies and activities, 
+are interlinked in various ways . First, 
+biodiversity gives rise to health benefits. For example, the variety of species and genotypes provide nutrients and medicines. Biodiversity also underpins ecosystem functioning which provides services such as water and air puriﬁcation, pest and disease control and pollination. However, it can also be a source of pathogens leading to negative 
+health outcomes. A second type of interaction 
+arises from drivers of change that aﬀect both 
+biodiversity and health in parallel. For example, 
+air and water pollution can lead to biodiversity 
+loss and have direct impacts on health. A third 
+type of interaction arises from the impacts of health sector interventions on biodiversity and of biodiversity-related interventions on human health. For example, the use of pharmaceuticals may lead to the release of active ingredients in the environment and 
+damage species and ecosystems, which in turn 
+may have negative knock-on eﬀects on human 
+health. Protected areas or hunting bans could 
+deny access of local communities to bushmeat 
+and other wild sourcs of food and medicines with negative impacts on health. Positive interactions of this type are also possible; for example the establishment of protected areas may protect water supplies with positive health beneﬁts.
+6. Direct drivers of biodiversity loss include 
+land-use change, habitat loss, over-exploitation, pollution, invasive species and climate change. Many of these drivers aﬀect human health directly and through their impacts on biodiversity. The 
+continued decline of biodiversity, including loss or degradation of ecosystems, is reducing the ability of biodiversity and ecosystems to provide essential life-sustaining services and, in many cases, leads to negative outcomes for 
+health and well-being. Ecosystem degradation 
+may lead to both biodiversity loss and increased risk from infectious diseases. In turn, the indirect drivers of biodiversity loss 
+are demographic change and large-scale social and economic processes. Social change and development trends (such as urbanization), poverty and gender also influence these drivers of change. Macro-economic policies 
+and structures and public policies that provide 
+perverse incentives or fail to incorporate the 
+value of biodiversity often compound the dual 
+threat to biodiversity and public health.
+7. Human population health is determined, 
+to a large extent, by social, economic and 
+environmental factors. Social determinants 
+of health include poverty, gender, sex, age, and rural versus urban areas. Vulnerable people, and groups (such as women and the poor) who tend to be more reliant on biodiversity and ecosystem services suﬀer disproportionately from biodiversity loss and have less access to social protection mechanisms (for example, access to healthcare). A social justice perspective is needed to address the various dimensions of 
+equity in the biodiversity and health dynamic. 
+Vulnerability and adaptation assessments are 
+needed and should be tailored to the contexts 
+of these populations.
+8. Women and men have diﬀerent roles in the 
+conservation and use of biodiversity and varying health impacts. Access to, use, and 
+management of biodiversity has diﬀerential gender health impacts shaped by respective cultural values and norms which in turn determine roles, responsibilities, obligations, beneﬁts and rights. Institutional capacity and legal frameworks often inadequately reﬂect diﬀerential gender roles. There is also a lack of gender disaggregated data on biodiversity access, use and control and on the diﬀerential health impacts of biodiversity change.
+9. The social and natural sciences are 
+important contributors to biodiversity 
+and health research and policy. Integrative 
+approaches, such as the ecosystem approach, ecohealth and One Health, unite different fields and require the development of mutual understanding and cooperation across disciplines. 
+2 Connecting Global Priorities: Biodiversity and Human HealthMulti-disciplinary research and approaches 
+can provide valuable insights on the drivers 
+of disease emergence and spread, contribute to 
+identifying previous patterns of disease risk, and help predict future risks through the lens of social-ecological systems. Such challenges 
+necessitate engagement of many stakeholders, 
+including governments, civil society, and non-
+governmental and international organizations. 
+Integrative approaches such as these make it possible to maximize resource eﬃciency as well as conservation, health and development outcomes. While their value is increasingly recognized for infectious disease prevention and control, their wider applications and beneﬁts can also extend to other areas. For example, to the assessment of environmental health exposures and outcomes, better 
+understanding of the health services provided 
+by biodiversity, and of how anthropogenic changes to an ecosystem or biodiversity may inﬂuence disease risks.
+WATER, AIR QUALITY AND HEALTH
+ERIC SALES / ASIAN DEVELOPMENT BANK / FLICKR
+Access to clean water is fundamental to human health 
+and a priority for sustainable development. Yet, almost 1 billion people lack access to safe drinking water and 2 million annual deaths are attributable to 
+unsafe water, sanitation and hygiene. Biodiversity and 
+ecosystems play a major role in regulating the quantity and quality of water supply but are themselves degraded by pollution.
+10. Ecosystems provide clean water that 
+underpin many aspects of human health. 
+All terrestrial and freshwater ecosystems play a role in underpinning the water cycle including regulating nutrient cycling and soil erosion. Many ecosystems can also play a role in managing pollution; the water puriﬁcation services they provide underpin water quality. Mountain ecosystems are of particular signiﬁcance in this regard. Many protected 
+areas are established primarily to protect water 
+supplies for people.
+11. Freshwater ecosystems, such as rivers, lakes 
+and wetlands, face disproportionately high 
+levels of threats due largely to demands on 
+water and impacts of human activities such 
+as dam construction and mining . In some 
+regions, up to 95% of wetlands have been lost and two-thirds of the world’s largest rivers are now moderately to severely fragmented by dams and reservoirs. Freshwater species have declined at a rate greater than any other biome, with the sharpest decline in tropical freshwater biomes. More than one-third of the accessible renewable freshwater on earth is consumptively used for agriculture, 
+industrial and domestic use, which often leads 
+to chemical pollution of natural water sources. 
+Other human activity, such as mining, can also 
+lead to bioaccumulation and biomagniﬁcation.
+12. Impaired water quality results in 
+significant social and economic costs.  
+Ecosystem degradation–for example through 
+eutrophication caused by excessive nutrients–
+is a major cause of declines in water quality. Left untreated, poor quality water results in massive burdens on human health, with the 
+most pronounced impacts on women, children 
+and the poor. Maintaining or restoring healthy 
+ecosystems (for example, through protected areas) is a cost-eﬀective and sustainable way 
+to improve water quality while also beneﬁtting 
+biodiversity.
+3 Connecting Global Priorities: Biodiversity and Human Health13. Water-related infrastructure has positive 
+and negative impacts on biodiversity, 
+livelihoods, and human health.  Altered 
+waterways (e.g. dams, irrigation canals, urban drainage systems) can provide valuable beneﬁts to human communities, but may be costly to build and maintain, and in some 
+cases increase risks (e.g. ﬂood risk from coastal 
+wetlands degradation). They can also diminish 
+native biodiversity and sometimes increase the incidence of water- borne or water-related 
+illnesses such as schistosomiasis. Approaches integrating beneﬁts of both physical/built and natural infrastructure can provide more sustainable and cost-eﬀective solutions.
+Air pollution is one of the most significant 
+environmental health risks worldwide, responsible for 
+seven million deaths in 2012. Bronchial asthma and 
+chronic obstructive pulmonary disease are on the rise. 
+Cardiovascular disease, immune disorders, various cancers, and disorders of the eye, ear, nose and throat 
+are also aﬀected by air pollution. Air pollution also aﬀects biodiversity; it can reduce plant biodiversity and aﬀect other ecosystem services, such as clean water and carbon storage.
+14. 
+Ecosystems may aﬀect air quality and have 
+primarily beneﬁcial outcomes for human 
+health. Ecosyste ms affect air quality in 
+three main ways: (1) Deposition  – ecosystems 
+directly remove air pollution, through absorption or intake of gases through leaves, and through direct deposition of particulate matters on plant surfaces; (2) Changes in 
+meteorological patterns – as ecosystems aﬀect local temperature, precipitation, air ﬂows, etc., they also aﬀect air quality and pollutant emissions. By altering climate and shading buildings, ecosystems in cities alter energy 
+use and consequent greenhouse gas emissions; 
+(3) Emissions  – many ecosystems emit volatile 
+organic carbons (VOCs) including terpenes and arenes. While sometimes considered as pollutants, many natural VOCs play a critical role in atmospheric chemistry and air quality regulation. Ecosystems also release pollen, sometimes associated with acute respiratory problems. Burning of vegetation is also associated with signiﬁcant pollution emissions.
+15. Components of biodiversity can be used 
+as bioindicators of known human health 
+stressors, as well as in air and water quality 
+mapping, monitoring, and regulation.  
+Lichens are among the most widely utilized and well-developed indicators of air quality to date and are making headway as reliable indicators for air quality regulation. The shift in species is predictable and often correlates highly with deposition measures, making lichens an accurate, cost-eﬀective tool for mapping and monitoring. Other groups of organisms with high local biological diversity (e.g., insects and other arthropods) have high potential as bioindicators because they have the capacity to provide more ﬁne-grained information about the state of ecosystems; they are also relatively easy to survey. Water quality can be monitored through chemical analysis but long-term trends in freshwater ecosystems are perhaps better monitored using the diversity of aquatic organisms (e.g., benthic invertebrates) as proxy for water quality and ecosystem health.UNDP BANGLADESH / FLICKR
+4 Connecting Global Priorities: Biodiversity and Human HealthBIODIVERSITY, FOOD 
+PRODUCTION AND NUTRITION
+BIOVERSITY
+Agricultural productivity has increased substantially 
+over the last 50 years yet some 800 million people are food insecure. It is estimated that by 2050 food 
+production will have to feed over 9 billion people, many 
+of whom will be wealthier and demand more food with 
+proportionately more meat and dairy products that have greater ecological footprints.
+Biodiversity underpins the productivity and resilience 
+of agricultural and other ecosystems. However, land use change and agriculture are dominant causes of biodiversity loss.
+16. Biodiversity in and around agricultural 
+production systems makes essential 
+contributions to food security and health. Biodiversity is the source of the components 
+of production  (crops, livestock, farmed ﬁsh), 
+and the genetic diversity within these that ensures continuing improvements in food 
+production, allows adaptation  to current 
+needs and ensures adaptability  to future ones. 
+Agricultural biodiversity is also essential for agricultural production systems, underpinning ecosystem services such as pollination, pest control, nutrient cycling, erosion control and water supply .
+17. 
+The loss of diversity from agro-ecosystems 
+is increasing the vulnerability and reducing 
+the sustainability of many production systems and has had negative effects on human health. While there have been significant increases in food production through the introduction of higher yielding uniform varieties and breeds, loss of genetic diversity in production systems through monocropping of uniform crop varieties or animal breeds has led to instances of large production losses and, in some cases, has had signiﬁcantly negative health consequences . 
+Loss of diversity has also resulted in the 
+reduced provision of regulating and supporting 
+ecosystem services, requiring additional 
+chemical inputs and creating negative feedback 
+loops.
+18. The use of chemical inputs, particularly 
+pesticides, has had severe negative consequences for wildlife, human health and for agricultural biodiversity. While 
+the control of disease vectors such as malaria 
+has generated health benefits, the use of pesticides, especially in agriculture, has led to serious environmental pollution, aﬀected human health (25 million people per year suﬀer acute pesticide poisoning in developing countries) and caused the death of many non-target animals, plants and ﬁsh. The use of agricultural biodiversity to help cope with pests and diseases and to increase soil quality 
+is a win-win option which produces beneﬁts to 
+human health and to biodiversity.
+19. Po llination is essential to food security 
+generally and to the production of many 
+of the most nutritious foods in particular . 
+Pollinators play a significant role in the production of approximately one third of global food supply. Pollination also aﬀects the quantity, nutritional content, quality, and variety of foods available. Global declines of pollinator species diversity and in numbers of pollinators have critical implications for 
+5 Connecting Global Priorities: Biodiversity and Human Healthfood security, agricultural productivity and, 
+potentially, human nutrition.
+20. Increas ing sustainable production and 
+meeting the challenges associated with climate change will require the increased use of agricultural biodiversity. Climate change is already having an impact the nutritional quality and safety of food and increasing the vulnerability of food insecure individuals and households. The increased use of agricultural biodiversity will play an 
+essential part in the adaptation and mitigation 
+actions needed to cope with climate change and ensuring continued sustainable supplies of healthy food, providing adaptive capacity, diverse options to cope with future change and enhanced resilience in food production systems.
+S. PADULOSI / BIOVERSITY
+21. Agricultural practices, which make 
+improved use of agricultural biodiversity, have been identiﬁed and are being used 
+around the world. Their potential value needs 
+to be more widely recognized and their adoption 
+more strongly supported through research and 
+support for appropriate policy and economic regimes, including appropriate support to small-scale producers. Inter-disciplinary analysis and cross-sectoral collaboration (among the agriculture, environment, health and nutrition communities) is essential to ensure the integration of biodiversity into policies, programmes and national and regional plans of action on food and nutrition security.Malnutrition is the single largest contributor to the global 
+burden of disease aﬀecting citizens of every country in the world from the least developed to the most. Two 
+billion people are estimated to be deﬁcient in one or more 
+micronutrients. At the same time, the consumption of 
+poor-quality processed foods, together with low physical 
+activity, has contributed to the dramatic emergence of obesity and associated chronic diseases.
+B. VINCETI / BIOVERSITY
+A diversity of species, varieties and breeds, as well as wild sources (ﬁsh, plants, bushmeat, 
+insects and fungi) underpins dietary diversity 
+and good nutrition. Variety-speciﬁc diﬀerences 
+within staple crops can often be the diﬀerence between nutrient adequacy and nutrient deficiency in populations and individuals. Signiﬁcant nutrient content diﬀerences in meat 
+and milk among breeds of the same animal species 
+have also been documented. Wildlife, from aquatic 
+and terrestrial ecosystems, is a critical source of calories, protein and micronutrients like iron and zinc for more than a billion people. Fish provide 
+more than 3 billion people with important sources 
+of protein, vitamins and minerals.
+22. Access to wildlife in terrestrial, marine, 
+and freshwater systems is critical to 
+human nutrition, and global declines will present major public health challenges for resource-dependent human populations, particularly in low- and middle- income countries. Even a single portion of local 
+traditional animal-source foods may result in signiﬁcantly increased clinical levels of energy, protein, vitamin A, vitamin B6/B12, vitamin D, vitamin E, riboﬂavin, iron, zinc, magnesium and fatty acids–thus reducing the risk of micronutrient deﬁciency. The use 
+6 Connecting Global Priorities: Biodiversity and Human Healthof wild foods increases during the traditional 
+‘hungry season’ when crops are not yet ready for harvest, and during times of unexpected household shocks such as crop failure or illness. However, wildlife populations are in worldwide decline as a result of habitat destruction, over-exploitation, pollution and invasive species. Conservation strategies can therefore provide signiﬁcant public health dividends.
+23. The harvest ing and trade of wild edible 
+plants and animals provides additional beneﬁts but also risks.  The collection and 
+trade of wild foods indirectly contributes to 
+health and well-being by providing income for 
+household needs, particularly in less developed 
+countries.  Aggregating across numerous local 
+level studies, estimates of the annual value of the bushmeat trade alone in west and central Africa range between US$42 and 205 million (at 2000 values). This scale of economy poses important subsistence benefits. Hunting, butchering, consumption, global trade, and/or contact in markets with other species can 
+also presents risks of transmission and spread 
+of infectious disease
+S. LANDERSZ / BIOVERSITY
+24. Food based approaches are needed to 
+help combat malnutrition and promote health. A healthy, balanced diet requires a variety of foods to supply the full range of nutrients needed (vitamins, minerals, individual amino acids and fatty acids, and other beneﬁcial bioactive food components)  While fortiﬁcation and bio-fortiﬁcation may be cost-eﬀective solutions to address speciﬁc nutrient deficiencies (e.g. vitamin A and iron), they cannot provide the full range of nutrients needed. Food based approaches can be supported by a greater focus on nutrition and biological diversity in agricultural, food system and value chain programs and policies 
+(compared to a dominant focus on a few staple 
+crops), including by promoting traditional food systems and food cultures.
+25. 
+Some dietary patterns that oﬀer substantial 
+health beneﬁts could also reduce climate change and pressures on biodiversity. The 
+global dietary transition towards diets higher in reﬁned sugars, reﬁned fats, oils and meats, are increasing the environmental footprint of the food system and also increasing the incidence of type II diabetes, coronary heart disease and other chronic non-communicable diseases. Some traditional diets, such as the 
+Mediterranean diet, and alternative vegetarian 
+or near-vegetarian diets, if widely adopted, would reduce global agricultural greenhouse gas emissions, reduce land clearing and 
+resultant species extinctions, and help prevent 
+diet-related chronic non-communicable diseases.
+MICROBIAL DIVERSITY AND 
+NONCOMMUNICABLE DISEASES
+NIAID / FLICKR
+Non-communicable diseases are becoming prevalent 
+in all parts of the world. Some NCDs including autoimmune diseases, type 1 diabetes, multiple sclerosis, allergic disorders, eczema, asthma, 
+inﬂammatory bowel diseases and Crohn’s disease may 
+7 Connecting Global Priorities: Biodiversity and Human Healthbe linked to depleted microbial diversity in the human 
+microbiome.
+26. Humans, like all complex plants and animals 
+have microbiota without which they could 
+not survive. The human microbiome contains 
+ten times more microorganisms than cells that 
+comprise the human body. These occur inter 
+alia on the skin, and in the gut, airways and 
+urogenital tracts. The biodiversity of bacteria, viruses, fungi, archaea and protozoa of which microbes are comprised, and the interactions of microbes within the complex human microbiome, inﬂuence both the physiology of and susceptibility to disease and play an important role in the processes that link environmental changes and human health. The realization that humans are not merely “individuals”, but rather complex ecosystems may be one of the major advances in our understanding of human health in recent years, with signiﬁcant implications for both ecology and human health.
+27. Environmental  microbial ecosystems are 
+in constant dialogue and interchange with the human symbiotic ecosystems.   
+Microbes from the environment supplement 
+and diversify the composition of the symbiotic 
+microbial communities that we pick up from mothers and family, which in turn play signiﬁcant roles from a physiological perspective.   Our physiological requirements 
+for microbial biodiversity are evolutionarily determined. In addition to supplementation 
+of the symbiotic microbiota by organisms from 
+the natural environment, the adaptability of the human microbiota (for example, to enable digestion of novel foods) depends upon acquiring organisms with the relevant capabilities, or genes encoding necessary enzymes from the environment by horizontal gene transfer. Therefore, we need appropriate contact with potential sources of genetic 
+innovation and diversity, and our adaptability 
+is threatened by loss of biodiversity in the gene 
+reservoir of environmental microbes.28. Several categories of org anism with 
+which we co-evolved play a role in setting up the mechanisms that “police” and regulate the immune system . In addition 
+to the microbiota, some other organisms (the “Old Infections”) that caused persistent infections or carrier states in hunter-gatherer communities were always present during 
+human evolution, and so had to be tolerated by 
+the immune system. Therefore they co-evolved 
+roles in inducing the mechanisms that regulate 
+the immune system, terminate immune 
+activity when it is no longer needed, and block 
+inappropriate attack on self (autoimmunity), allergens (allergic disorders) or gut contents (inﬂammatory bowel disease). Some of these immunoregulation-inducing organisms, for example a heavy load of helminths, can have detrimental eﬀects on health, and so are eliminated by modern medicine in high-
+income settings. This increases the importance 
+of the immunoregulatory role of microbiota 
+and the microbial environment in high-income 
+settings, where these categories of organism need to compensate for loss of these “Old Infections”.
+29. Reduced contact of people with the 
+natural environment and biodiversity and 
+biodiversity loss in the wider environment 
+leads to reduced diversity in the human 
+microbiota, which itself can lead to immune 
+dysfunction and disease. The immune 
+system needs an input of microbial diversity from the natural environment in order to establish the mechanisms that regulate it. When this regulation fails there may be immune responses to forbidden targets such as our own tissues (autoimmune diseases; type 1 diabetes, multiple sclerosis), harmless allergens and foods (allergic disorders, eczema, asthma, hay fever) or gut contents (inflammatory bowel diseases, ulcerative colitis, Crohn’s disease). Urbanization and loss of access to green spaces are increasingly discussed in relation to these NCDs. Half of the world’s population already lives in urban areas and this number is projected to increase markedly in the next half century, with the 
+8 Connecting Global Priorities: Biodiversity and Human Healthmost rapid increase in low- and middle-
+income countries. Combined, these ﬁndings suggest an important opportunity for cross-
+over between health promotion and education 
+on biodiversity.
+30. Failing immunoregulatory mechanisms 
+partly attributable to reduced contact with the natural environment and biodiversity lead to poor control of background inﬂammation . In high-income 
+urban settings, there is often continuous background inflammation even in the absence of a speciﬁc chronic inﬂammatory disorder. But persistently raised circulating levels of inﬂammatory mediators predispose to insulin resistance, metabolic syndrome, type 2 diabetes, obesity, cardiovascular disease and psychiatric disorders. Moreover, in high-income settings several cancers rise in parallel with the increases in chronic inflammatory disorders, because chronic inﬂammation drives mutation, and provides growth factors and mediators that stimulate tumour vascularisation and metastasis. We need to maintain the microbial biodiversity of the environment in order to drive essential regulation of the immune system.
+31. Understanding the factors that inﬂuence 
+functional and compositional changes in the human microbiome can contribute to 
+the development of therapies that address 
+the gut microbiota and corresponding diseases. Disturbances in the composition 
+and diversity of the gut microbiota are 
+associated with a wide range of immunological, 
+gastrointestinal, metabolic and psychiatric disorders. The required microbial diversity is obtained from the individual’s mother, from other people and from animals (farms, dogs) and the natural environment. The major inﬂuences on this diversity are antibiotics, diet, and diversity loss in the environment due to urbanisation and modern agricultural 
+methods. We need to document the microbial 
+biodiversity and the causes of diversity loss, preserve diversity, and identify the beneﬁcial organisms and genes. These may be exploited for deliberate modiﬁcation and diversiﬁcation 
+of the microbiota, which is emerging as an exciting new approach to prevention and cure of many human diseases.
+32. Innovative design of cities and dwellings 
+m i g h t  b e  a b l e  t o  i n c r e a s e  e x p o s u r e  t o  the microbial biodiversity that our physiological systems have evolved to expect . In high-income settings several very 
+large studies reveal signiﬁcant health beneﬁts of living near to green spaces. The beneﬁts are greatest for people of low socioeconomic status. Recent data suggest that the eﬀect is not due primarily to exercise, and exposure to environmental microbial biodiversity is a plausible explanation. This provides a strong medical rationale for increased provision of green spaces in modern cities. It might be suﬃcient to supplement a few large green spaces with multiple small green spaces that deliver appropriate microbial diversity.
+33. Consider ing “microbial diversity” as 
+an ecosystem service provider may contribute to bridging the chasm between ecology and medicine/immunology, by considering microbial diversity in public health and conservation strategies aimed at maximizing services obtained from ecosystems.  The relationships our individual 
+bodies have with our microbiomes are a microcosm for the vital relationships our 
+species shares with countless other organisms 
+with which we share the planet.
+9 Connecting Global Priorities: Biodiversity and Human HealthINFECTIOUS DISEASES
+CSIRO
+Infectious diseases cause over one billion human 
+infections per year, with millions of deaths each year globally. Extensive health and ﬁnancial burden is seen 
+from both established and emerging infectious diseases. 
+Infectious diseases also aﬀec t plants and animals, which 
+may pose threats to agriculture and water supplies with 
+additional impacts on human health.
+34. Pathog ens play a complex role in 
+biodiversity and health, with beneﬁts in 
+some contexts and threats to biodiversity and human health in others.  The 
+relationships between infectious pathogens and host species are complex; disease and microbial composition can serve vital 
+regulating roles in one species or communities 
+while having detrimental eﬀects on others. Microbial dynamics, and their implications for biodiversity and health, are multifactorial; similarly, the role of biodiversity in pathogen maintenance and not fully understood.
+35. Human-caused c hanges in ecosystems, 
+such as modified landscapes, intensive agriculture, and antimicrobial use, are 
+increasing infectious disease transmission 
+risks and impact.  Approximately two-
+thirds of known human infectious diseases are shared with animals, and the majority of recently emerging diseases are associated with wildlife. Vector-borne diseases also account for a large share of endemic diseases. Increasing anthropogenic activity is resulting in enhanced opportunities for contact at the human/animal/environment interface that is facilitating disease spread, and through 
+changing vector abundance, composition, and/or distribution. Changes in land use and food 
+production practices are among leading drivers 
+of disease emergence in humans. At the same time, pathogen dynamics are changing. While 
+pathogen evolution is a natural phenomenon, 
+factors such as global travel, climate change, and use of antimicrobial agents are rapidly aﬀecting pathogen movement, host ranges, and persistence and virulence. Beyond direct infection risks for human and animals, such changes also have implications for food security and medicine.
+36. Areas of high biodiversity may have high 
+numbers of pathogens, yet biodiversity may serve as a protective factor for 
+preventing transmission, and maintaining 
+ecosystems may help reduce exposure to 
+infectious agents.  While the absolute number 
+of pathogens may be high in areas of high biodiversity, disease transmission to humans is highly determined by contact, and in some 
+cases, biodiversity may serve to protect against 
+pathogen exposure through host species competition and other regulating functions. 
+Limiting human activity in biodiverse habitats 
+may reduce human exposure to high-risk settings for zoonotic pathogens while serving to protect biodiversity.
+37. Infectious diseases threaten wild species 
+as well as the people that depend on them. 
+The health burden of infectious diseases is not limited to humans and domestic species; infectious diseases pose threat to biodiversity conservation as well. Pathogen spill-over can occur from one wild species to another, potentially causing an outbreak if the species or population is susceptible to the pathogen; similarly, diseases of domestic animals and humans can also be infectious to wild species, as seen with the local extinctions of African Wild Dog populations following the introduction of rabies virus from domestic dogs. Ebola virus has also been recognized as causing severe declines in 
+great ape populations, including the critically-
+endangered wild lowland gorilla troops. Past Ebola outbreaks in great apes have preceded 
+10 Connecting Global Priorities: Biodiversity and Human Healthhuman outbreaks, suggesting a sentinel 
+or predictive value of wildlife monitoring to aid in early detection or prevention of human infections. In addition to the direct potential morbidity and mortality threats from infectious diseases to the survival of 
+wild populations, infection-related population 
+declines may compromise health-beneﬁtting ecosystem services that wildlife provide. For example, major declines recently seen from fungal infections associated with White Nose 
+Syndrome in North American bats and chytrid 
+in amphibians may aﬀect the pest control functions that these animals provide.
+38. The rapidly grow ing number of invasive 
+species cause signiﬁcant impacts on human 
+health, and this eﬀect is expected to further 
+increase in the future, due to synergistic eﬀects of biological invasions and climate change . Preventing and mitigating biological 
+invasions is not only is important to protecting 
+biodiversity, but can also protect human health. 
+Through trade and travel, the number of invasive 
+species is increasing globally as a consequence of the globalization of the economies, and the increase is expected to intensify in the future due to synergistic eﬀects with climate change. Invasive species not only impact biodiversity, 
+but also aﬀect human health causing diseases or 
+infections, exposing humans to bites and stings, 
+causing allergic reactions, and facilitating the spread of pathogens.
+MEDICINES: THE CONTRIBUTION 
+OF BIODIVERSITY TO THE DEVELOPMENT OF PHARMACEUTICALS
+GENEVIÈVE ANDERSONMany of the diseases that aﬄicted or killed most 
+people a century ago are today largely curable or 
+preventable today thanks to medicines, many of which 
+are derived from biodiversity. Yet, in many instances, the very organisms that have given humanity vital insights into human diseases, or are the sources of human medications, are endangered with extinction because of human actions.
+39. Biodiversity has been an irreplaceable 
+resource for the discovery of medicines 
+and biomedical breakthroughs that have alleviated human suﬀering. Drugs derived 
+from natural products may perhaps be the most direct and concrete  bond that many 
+may ﬁnd between biodiversity and medicine. Among the breakthroughs that dramatically improved human health in the twentieth century, antibiotics rank near the top. The penicillins as well as nine of the thirteen other major classes of antibiotics in use, derive from microorganisms. Between 1981 and 2010, 75% (78 of 104) of antibacterials newly approved by the USFDA can be traced back to natural product origins. Percentages of antivirals and antiparasitics derived from natural products approved during that same period are similar or higher. Reliance upon biodiversity for new drugs continues to this day in nearly every domain of medicine.
+40. For many of the most challenging health 
+problems facing humanity today, we look to 
+biodiversity for new treatments or insights 
+into their cures. Most of the medicinal potential of nature potential has yet to be tapped. Plants have been the single greatest source of natural product drugs to date, and although an estimated 400,000 plant species populate the earth, only a fraction of these 
+have been studied for pharmacologic potential.  
+One of the largest plant specimen banks, the natural products repository at the National 
+Cancer Institute, contains ~60,000 specimens, 
+for instance. Other realms of the living world, especially the microbial and marine, are only 
+beginning to be studied and hold vast potential 
+for new drugs given both their diversity and the medicines already discovered from them. Many species, potential sources of medicines are threatened by extinction.
+11 Connecting Global Priorities: Biodiversity and Human Health41. Greater even than what individual species 
+offer to medicine through molecules 
+they contain or traits they possess, an 
+understanding of biodiversity and ecology 
+yield irreplaceable insights into how life works that bear upon current epidemic diseases. Consider the multiple pandemics 
+that have resulted from antibiotic resistance. Human medicine tends to use a paradigm for treating infections unknown in nature which is treating one pathogen with one antibiotic. Most multicellular life (and a good share of single cellular life) produces compounds with antibiotic properties but never uses them in isolation. Infections are attacked, or more often prevented, through the secretion of several compounds at once.
+TRADITIONAL MEDICINE
+C. KRESTCH
+Millions of people rely on traditional medicine that is dependent on biological resources, well functioning ecosystems and on the associated context speciﬁc knowledge of local health practitioners. In local communities, health practitioners trained in 
+traditional and non–formal systems of medicine often 
+play a crucial role in linking health-related knowledge to aﬀordable healthcare delivery.
+42. Traditional medical knowledge spans 
+various dimensions relating to medicines, 
+food and nutrition, rituals, daily routines 
+and customs.  There is no single approach to 
+traditional medical knowledge. Traditional 
+knowledge is not restricted to any particular period in time, and constantly undergoes re-evaluation based on local contexts. Some traditional medical systems are codiﬁed, and some even institutionalized. They range from highly developed ways of perception and understanding, classiﬁcation systems (local-taxonomies) to metaphysical precepts. Links to geography, community, 
+worldviews, biodiversity and ecosystems based 
+on speciﬁc epistemologies make traditional health practices diverse and unique. By extension, level of expertise is heterogeneous and therefore internal validation methods differ substantially despite an underlying philosophical principle of interconnectedness of social and natural worlds.
+43. Medicinal and aromatic plants, the great 
+majority of which are sourced from the wild, are used in traditional medicine and also in the pharmaceutical, cosmetic and food industries.  The global use and trade 
+in medicinal plants and other biological resources, including wildlife, is high and growing. Plants used in traditional medicine 
+are not only important in local health care, but 
+are important to innovations in healthcare and associated international trade; they enter various commodity chains based on information gathered from their use in traditional medical pharmacopeia. Globally, an estimated 60,000 species are used for their medicinal, nutritional and aromatic 
+properties, and every year more than 500,000 
+tons of material from such species are traded. It is estimated that the global trade in plants 
+for medicinal purposes reaches a value of over 
+2,5 billion USD and is increasingly driven by industry demand.
+44. Threats to medicinal plants, animals and 
+other medicinal resources are increasing. Wild plant populations are declining-  one in 
+ﬁve species is estimated to be threatened with 
+extinction in the wild. Animals (amphibians, reptiles, birds, mammals) used for food and medicine are more threatened than those not used. Overharvesting, habitat alteration, and climate change are among major drivers of declines in commercially important wild plant resources used for food and medicinal 
+12 Connecting Global Priorities: Biodiversity and Human Healthpurposes. These pose a threat both to the wild 
+species and to the livelihoods of collectors, 
+who often belong to the poorest social groups. 
+There is a clear need to continue eﬀorts at 
+developing assessment methods and indicators 
+for conservation and sustainable use.
+45. Sustainable use of medicinal resources can 
+provide multiple beneﬁts to biodiversity, 
+livelihoods and human health, in particular, relating to their aﬀordability, accessibility and cultural acceptability . 
+Sustainable medicinal resource management for both captive-breeding and wild-collection 
+is crucial for the future of traditional medicine, 
+that involves all stakeholders including conservationists, private healthcare sector, medical practitioners and its consumers.  
+Appropriate market-based instruments to 
+enable sustainable and responsible utilization 
+of resources in traditional medicine are 
+required. Value chains of traditional medicines 
+can be simple and local or global and extremely 
+complex. Some resources have one or a few speciﬁc uses while others are used in many 
+diﬀerent products and markets. In many cases 
+the people who harvest these resources have little knowledge of the subsequent uses and values. Ensuring equitable economic returns to local communities by promoting value added activities at the local level could help to harness the knowledge of local communities on medicinal resources and promote their sustainable use.
+46. Sui generis mod els may need to be 
+developed and applied to secure rights of 
+indigenous peoples and local communities 
+over traditional medical knowledge and related resources. Traditional medical knowledge is often an inspiration for industrial R&D processes in bio-resource based sectors, necessitating mechanisms to secure appropriate attribution and sharing of rights and beneﬁts with knowledge holders, as set out in the Nagoya Protocol on Access to genetic resources and equitable sharing of benefits arising from their commercial 
+utilization. It would be beneﬁcial to strengthen and promote existing tools, databases and registers and intellectual property rights that are sensitive to community values.
+47. Improv ing public health outcomes and 
+achieving objectives of ‘Health for All’ and ‘Good Health at Low Cost’ should include traditional medical care and the development of appropriate integrative methodologies and safety standards within and across medical systems. More than one-third of the population in many developing countries do not have access to modern healthcare, and are dependent on traditional medical systems. There is a high patronage of and dependence on traditional health practitioners to provide care to people with inadequate access to modern health infrastructure or with a preference for traditional systems. Pluralistic approaches that integrate natural resources and medical knowledge and are sensitive to local priorities and contexts can enable better health outcomes. This implies the need to develop cross-sectoral, cost-effective measures to test safety, eﬃcacy and quality of traditional medicines, the integration of traditional healers in the healthcare system through appropriate accreditation practices and processes, cross-learning between diﬀerent knowledge systems and disciplines through participatory, formal and informal learning processes to supplement current practices in a culturally sensitive way.
+BIODIVERSITY AND MENTAL, 
+PHYSICAL AND CULTURAL WELL-BEING
+It is well established that biodiversity is a central 
+component of many cultures and cultural traditions, and evidence that exposure to nature and more biodiverse environments can also provide mental and physical health beneﬁts. Over half of the world’s population lives in cities and that proportion is 
+increasing. There is a rising trend for people, especially 
+from poor communities, to be separated from nature and be deprived of the physical, physiological and psychological beneﬁts that nature provides.
+13 Connecting Global Priorities: Biodiversity and Human HealthGLEN BOWES
+48. The interaction with nature – inclu ding 
+domestic animals, and wild animals in wild 
+settings – may contribute to treatments 
+for depression, anxiety, and behavioural problems, including for children.  
+Exposure to nature is important to childhood development, and children who grow up with knowledge about the natural world and the importance of conservation may be more 
+likely to conserve nature themselves as adults. 
+Conversely, it has been stipulated that children 
+in developed countries increasingly suﬀer from 
+a “nature-deﬁcit disorder”, due to a reduction in the time spent playing outdoors as a result of increased use of technology and parental / societal fears for child safety. On the other hand, some research has suggested that some children, particularly those from urban areas, are fearful of spending time in certain natural habitats (woodland and wetland) owing to perceived threats from isolation, wild animals or the actions of other people.
+49. 
+Exposure to green space may have positive 
+impacts on mental health.  Depression 
+accounts for 4.3% of the global burden of disease and is among the largest single causes 
+of disability worldwide, particularly for women. 
+Some studies of populations in developed countries have suggested that adults exposed to green space report fewer symptoms and a 
+lower overall incidence of certain diseases than 
+others, and that the relationship is strongest 
+for mental illnesses such as depression, anxiety 
+and stress. Similarly beneﬁcial mental health impacts have been associated with greater 
+exposure to microbial diversity. Other research has indicated that experience of nature can reduce recuperation times and improve recovery outcomes in hospital patients.
+50. Access to natural green space can increase 
+levels of physical activity with beneﬁts for health. The beneﬁts of physical activity may include reduced risk of several non-communicable diseases, as well as improved immune function. It may also provide mental 
+health beneﬁts, and facilitate social connections 
+and independence. Among populations for which access to open countryside is limited, particularly those in poorer inner-urban areas of large cities, access to green spaces in the urban environment can encourage regular physical activity and improve life expectancy. 
+It has also been suggested that health beneﬁts 
+may be more significantly attributable to 
+enhanced exposure to environmental microbes 
+in green spaces. There is evidence that biodiversity encourages use of urban green spaces. Eﬀorts to develop biodiverse settings, including wildlife-rich gardens, can also boost physical activity in sedentary and vulnerable patients and residents. While, the potential that green space can oﬀer for promoting and enhancing physical ﬁtness is still not fully 
+recognised, there is a growing interest in many 
+countries to promote and enhance “green and blue infrastructure” (terrestrial and aquatic environments) within tourism, public health and environmental policies.
+B. SHAPIT / BIOVERSITY
+51. Biodiversity is often central to cultures, 
+cultural traditions and cultural well-being. Species, habitats, ecosystems, and 
+landscapes inﬂuence forms of music, language, 
+14 Connecting Global Priorities: Biodiversity and Human Healthart, literature and dance. They form essential 
+elements of food production systems, culinary traditions, traditional medicine, rituals, worldviews, atta chments to place and 
+community, and social systems. Use of the WHO Quality Of Life Assessment (devised to determine an individual’s quality of life in the 
+context of their culture and value systems) has 
+shown that the environmental domain is an important part of the quality of life concept. Socio-ecological production landscapes (e.g. Satoyama in Japan) or conservation systems (e.g. sacred groves, ceremonial sites) or therapeutic landscapes (e.g. sacred healing sites), and related traditional knowledge practices can have therapeutic value and contribute to health and well-being.
+52. 
+Signiﬁcant changes to local biodiversity or 
+ecosystem sustainability can have speciﬁc and unique impacts on local community health where the physical health of a community is directly inﬂuenced by or dependent upon ecosystem services, particularly regarding access to diverse 
+food and medicinal species. Indigenous and 
+local communities often act as stewards of local living natural resources based on generations of 
+accumulated traditional knowledge, including 
+knowledge of agricultural biodiversity, and biodiversity that supports traditional medicinal knowledge. Where local traditions and cultural identity are closely associated with biodiversity and ecosystem services, declines in the availability and abundance of such resources can have a detrimental impact on community well-being, with implications for mental and physical health, social welfare and community cohesion.
+53. While many community-specific links 
+between health, culture and biodiversity have been documented and measured, much of the evidence for a more universal relationship is relatively sparse beyond anecdotal accounts. However, there is 
+growing recognition of the role of biodiversity 
+and ecosystem services in shaping broad perspectives of quality of life.IMPACTS OF PHARMACEUTICAL 
+PRODUCTS ON BIODIVERSITY AND CONSEQUENCES FOR HEALTH
+Antibiotics and other pharmaceuticals are essential 
+for human health and also play an important role 
+in veterinary medicine. However, the release of active pharmaceutical ingredients into the environment can be harmful to biodiversity, with negative consequences for human health.
+54. The release of pharmaceuticals and 
+Active Pharmaceutical Ingredients 
+(APIs) into the environment can have an impact on biodiversity, ecosystems and ecosystem service delivery, and, may, in turn negatively impact human health. A range of pharmaceuticals, including hormones, antibiotics, anti-depressants and antifungal agents have been detected in rivers and streams across the world. Most pharmaceuticals are designed to interact with a target (such as a speciﬁc receptor, enzyme, or biological process) in humans and animals to deliver the desired therapeutic eﬀect. If these targets are present in organisms in the natural environment, exposure to some pharmaceuticals might be able to elicit eﬀects in those organisms. Pharmaceuticals can also cause side eﬀects in humans and it is possible 
+that these and other side eﬀects can also occur 
+in organisms in the environment. During the life cycle of a pharmaceutical product, APIs may be released to the natural environment, including during the manufacturing process via human or domestic animal excretion into sewage systems, surface water or soils, when contaminated sewage sludge, sewage effluent or animal manure is applied to land. APIs may also be released into the soil environment when contaminated sewage sludge, sewage eﬄuent or animal manure is applied to land. Veterinary pharmaceuticals 
+may also be excreted directly to soils by pasture 
+animals. Measures are needed to reduce this environmental contamination.
+55. Antibiotic and antimicrobial use can 
+alter the composition and function of the 
+15 Connecting Global Priorities: Biodiversity and Human Healthhuman microbiome and limiting their use 
+would provide biodiversity and health co-beneﬁts.  Antibiotic use can dramatically 
+alter the composition and function of the human microbiome. Although much of the microbiome and its relationship to its host remains unexplored, already apparent is that changes to the variety and abundance of various microorganisms, as can occur with antibiotic use, may aﬀect everything from the host’s weight and the risk of contracting autoimmune disease, to susceptibility to infections. The microbiome may also be able to aﬀect mood and behaviour. The use of antibacterial products and antibiotics may also be linked to the increase in chronic inﬂammatory disorders, including allergies such as asthma and eczema, because they 
+reduce exposure to microbial agents that set up 
+the regulation of the immune system. Limiting 
+the use of antimicrobial agents could provide potential co-beneﬁts for human health and biodiversity, reducing chronic inﬂammatory diseases through a healthy and more diverse 
+human microbiota while also reducing the risk 
+of emerging disease from antibiotic-resistant 
+strains and the potential impacts of antibiotics 
+on ecosystems more broadly.
+56. The inappropriate use of antibiotics in 
+plants, animals, and humans has cultivated 
+numerous highly resistant bacterial 
+strains. In some instances, resistant bacterial 
+strains cannot be eﬀectively treated with any 
+currently available antibiotic. Promoting the 
+responsible and prudent use of antibiotics and 
+antimicrobials in human health, agricultural practices and food production systems can achieve public health and biodiversity co-benefits. Poorly managed industrial agricultural practices contribute to ecosystem degradation, air and water pollution and soil 
+depletion and rely heavily on the inappropriate 
+use of antibiotics for both therapeutic as well 
+as prophylactic (growth promotion) use, which 
+may lead to environmental dispersion of 
+antimicrobial agents, antibiotic resistance, and 
+reduced eﬃcacy in subsequent use for medical 
+or food production applications. From a health perspective, the use of antimicrobials and 
+antibiotics may disrupt microbial composition, 
+including the relationships between hosts and 
+their symbiotic microbes, and lead to diseases. 
+At the same time, antibiotic resistance in any environment can pose serious threats to public health. Aside from its potential to cultivate resistance, antibiotic use also carries the potential to disrupt symbiotic bacterial composition.
+57. Endocrine disrupting chemicals found in 
+pharmaceuticals products and also in many 
+household, food and consumer products 
+have adverse effects on the health of 
+terrestrial, freshwater and marine wildlife 
+and human health. The use of contraceptive 
+hormones and veterinary growth hormones have been linked to endocrine disruption and reproductive dysfunction in wildlife. They also aﬀect both male and female human 
+reproduction, and have been linked to prostate 
+cancer, neurological, endocrinological, 
+thyroid, obesity, and cardiovascular problems. 
+Biodiversity has also been a good monitor for some of these human health problems. In some cases, health specialists were alerted to the scale of a potential problem through changes originally recorded in wild fish populations.
+58. The inappropriate use of some non-
+steroidal anti-inflammatory drugs and other veterinary drugs  threatens wildlife 
+populations. For example, in the 1980s, 
+populations of three previously abundant vulture species in South Asia were reduced to near extinction due to the use in livestock of diclofenac, residues of which remained in the 
+carcasses of treated animals. This led to negative 
+impacts on human health through spread of diseases by feral dogs as access to carcasses increased, especially among communities who rely on vultures to consume their dead. 
+Following bans on the use of diclofenac and its 
+replacement by meloxicam, vulture population 
+declines have slowed and some show signs of recovery in the region. Without proper risk assessment and regulation the marketing and 
+16 Connecting Global Priorities: Biodiversity and Human Healthuse of pharmaceuticals used for livestock may 
+continue to pose threats to human and wildlife 
+health.
+GLOBAL CHANGE ADAPTATION TO 
+CLIMATE CHANGE AND DISASTER RISK REDUCTION
+AIRMAN 1ST CLASS CHERYL SANZI (USAF)
+59. Climate c hange is already negatively 
+impacting on human health and these 
+impacts are expected to intensify . Direct 
+effects of climate change on health may include stroke and dehydration associated with heat waves (in particular in urban areas), 
+negative health consequences associated with 
+reduced air quality and the spread of allergens 
+Eﬀects are also mediated through the impacts 
+on ecosystems and biodiversity. Such eﬀects may include decreased food production and changes in the spread of climate-sensitive waterborne and water-related, food-borne and vector-borne diseases. There may be synergistic eﬀects of climate change, land use change, pollution invasive species and other drivers of change which can amplify impacts on both health and biodiversity.
+60. Climate c hange will not only affect 
+agricultural production systems but also the nutritional content of foods and the distribution and availability of ﬁsheries. Changes in temperature and precipitation patterns will have complex eﬀects, but the 
+net eﬀect on food production will be negative. 
+While rising levels of atmospheric carbon, tend to increase productivity, they will lead to reduced concentrations of minerals such as zinc and iron in crops such as wheat and rice. With regard to marine ﬁsheries, while there would be increased productivity at high latitudes there will be decreased productivity 
+at low/mid latitudes, aﬀecting poor developing 
+countries.
+61. Disasters may be precipitated by impacts 
+on critical ecosystems or the collapse of essential ecosystem services. Disasters 
+may include disease epidemics, flooding, storm, extreme weather, and wildﬁres. Some of these may be precipitated by ecosystem disruption. There is an increase in frequency 
+and intensity of some climate-related extreme 
+events. Ecosystem degradation can increase the vulnerability of human populations to such disasters. New environmental impacts often occur during and after an emergency with an increased demand for certain natural resources which can place additional stress on speciﬁc ecosystems (such as groundwater resources) and their functioning.
+62. Competition over access to ecosystem 
+goods and services can contribute to, and become a cause of, conflict, with consequences that can negatively impact ecosystem goods and services in both the short- and long-term. Greater recognition 
+needs to be given to the potential positive role 
+that conservation and ecosystem management 
+can play in conﬂict prevention and resolution and peace building, while the converse also holds.
+63. The creation of disaster-resilient societies 
+is increasingly tied to and dependent upon 
+resilience in ecosystems, and sustainability 
+and security in the ﬂow and delivery of essential ecosystem goods and services  
+– not only those directly associated with resilience to immediate disaster impacts, but 
+also those that normally support communities 
+and wider society. Long-term health status is an important indicator of the resilience of a community – as a marker for capacity to overcome or adapt to health challenges and other social, environmental and economic pressures. Communities whose ability to overcome current challenges are aﬀected by 
+17 Connecting Global Priorities: Biodiversity and Human Healthecosystem degradation at the time of a disaster 
+event – natural or man-made – are likely to be 
+signiﬁcantly more vulnerable to disasters than 
+communities with greater ecological security.
+64. Biodiversity helps to improve resilience of 
+ecosystems, contributing to adaptation to 
+climate change and moderating the impacts 
+of disasters. Ecosystem-based adaptation and 
+mitigation strategies are needed to build the 
+resilience of managed landscapes and jointly reduce the vulnerabilities of ecosystems and communities reliant upon them for their 
+health, livelihoods and well-being. For example,  
+Ecosystem-based approaches to ﬂood-plain and coastal development can reduce human exposure to risks from ﬂooding. Coral reefs are very eﬀective in protecting against coastal hazards (reducing wave energy by 97%) and protect over 100 million people in this way from coastal storm surges. The conservation and use of genetic resources in agriculture, aquaculture and forestry is important to allow crops, trees, ﬁsh and livestock to adapt to climate change.
+SUSTAINABLE CONSUMPTION AND 
+PRODUCTION
+65. Increased pressure on the biosphere, driven 
+by increasing human populations and per 
+capita consumption threatens biodiversity 
+and human health. Biosphere integrity 
+is threatened by a number of interacting 
+drivers including climate change, land-use 
+change, pollution and biodiversity loss . Global 
+population is projected to increase to nine to ten billion by 2050, and may continue to increase this century. Greater investment in education of girls and women and improved access to contraceptives information and services can improve human health and well-being directly and also help to slow these trends, potentially reducing pressures on ecosystems. Under business as usual scenarios, increased per-capita consumption 
+will lead to even greater increased pressures on 
+the biosphere. Slowing these trends requires improvements in energy and resource use efficiency, including a decarbonization of energy supplies this century. These changes will need to be complemented by increased equality in access to and use of energy and other natural resources.
+66. Alternative scenario s to 2050, as well as 
+practical experience, demonstrate that it is 
+possible to secure food security and reduce 
+poverty while also protecting biodiversity and addressing climate change and attain other human development goals, but that this requires transformational change. 
+Scenario analyses show that there are multiple 
+plausible pathways to simultaneously achieve globally agreed goals. Common elements of these pathways include: reducing greenhouse gas emissions from energy and industry; increasing agricultural productivity and containing agricultural expansion to prevent 
+further biodiversity loss and to avoid excessive 
+greenhouse gas emissions from conversion of natural habitats; restoring degraded land, protecting critical habitats; managing 
+biodiversity in agricultural landscapes; reducing 
+nutrient and pesticide pollution and water use; 
+reducing post harvest losses in agriculture and food waste by retailers and consumers as well as moderating the increase in meat consumption. Implementing these measures requires a package of actions including legal and policy frameworks, economic incentives, and public and stakeholder engagement. Coherence of policies and coordination across sectors are essential.
+67. Behavioural change is needed to improve 
+human health and protect biodiversity. Human behaviour, which is informed by 
+diﬀerences in knowledge, values, social norms, 
+power relationships, and practices is at the core of the interlinkages between health and biodiversity, including challenges related to food, water, disease, medicine, physical and mental well-being, adaptation and mitigation of climate change. There is a need to draw upon the social sciences to motivate choices consistent with health and biodiversity objectives and to develop new approaches 
+18 Connecting Global Priorities: Biodiversity and Human Healththrough, inter alia, better understanding 
+of behavioural change, production and consumption patterns, policy development, and the use of non-market tools. The need for more eﬀective communication, education 
+and public awareness to be spread more widely 
+through school systems and other channels and to devise communication and awareness strategies on biodiversity and health.
+STRATEGIES FOR HEALTH AND 
+BIODIVERSITY
+68. Health and biodiversity strategies could be 
+developed with the aim of ensuring that 
+the biodiversity and health linkages are widely recognized, valued, and reﬂected in national public health and biodiversity 
+strategies, and in the programs, plans, and 
+strategies of other relevant sectors, with the involvement of local communities. The implementation of such strategies could be a joint responsibility of ministries of health, environment, and other relevant ministries responsible for the implementation of environmental health programs and national biodiversity strategies and action plans. Such strategies would need to be tailored to the needs and priorities of particular countries. Such strategies might include the following objectives:
+a. Promoting the health beneﬁts provided by 
+biodiversity for food security and nutrition, 
+water supply, and other ecosystem services, 
+pharmaceuticals and traditional medicines, 
+mental health and physical and cultural 
+well-being. In turn, this provides a rationale 
+for the conservation and sustainable use of 
+biodiversity as well as the fair and equitable 
+sharing of beneﬁts;
+b. Managing ecosystems to reduce the risks 
+of infectious diseases, including zoonotic and vector-borne diseases, for example by 
+avoiding ecosystem degradation, preventing 
+invasive alien species, and limiting or controlling human-wildlife contact;c. 
+Addressing drivers of environmental change 
+(deforestation and other ecosystem loss and 
+degradation and chemical pollution) that harm both biodiversity and human health, including direct health impacts and those mediated by biodiversity loss;
+d. Promoting lifestyles that might contribute 
+jointly to positive health and biodiversity outcomes (for example, protecting traditional foods and food cultures, promoting dietary diversity)
+e. 
+Addressing the unintended negative impacts 
+of health interventions on biodiversity (for example, antibiotic resistance, contamination from pharmaceuticals), and incorporating ecosystem concerns into public health policies.
+f. 
+Addressing the unintended negative impacts 
+of biodiversity interventions on health (for 
+example, eﬀect of protected areas or hunting 
+bans on access to food, medicinal plants).
+g. Adopting the One Health approach or 
+other integrative approaches that consider connections between human, animal, and plant diseases and promotes cross-disciplinary synergies for health and biodiversity.
+h. Educating, engaging and mobilizing the 
+public and the health sector, including professional health associations as potential, powerful advocates for the sustainable management of ecosystems. Mobilize organizations and individuals who can articulate the linkage and the enormous value proposition investments in sustainable ecosystem management provide to the social and economic health of communities;
+i. Monitoring, evaluating and forecasting 
+progress toward the achievement of national, regional and global targets at regular intervals against evidence-based indicators, including threshold values for critical ecosystem services, such as the 
+19 Connecting Global Priorities: Biodiversity and Human Healthavailability and access to food, water and 
+medicines.
+TOOLS, METRICS AND FURTHER 
+RESEARCH
+69. Integration of biodiversity and human 
+health concerns will require the use 
+of common metrics and frameworks. Conventional measures of health are often 
+too limited in focus to adequately encompass the health benefits from biodiversity. Notwithstanding the broad WHO deﬁnition of health, traditional measures of health, such as disability adjusted life years (DALYs) and burden of disease, tend to have a more narrow focus on morbidity, mortality and disability, and fail to capture the full breadth of complex linkages between biodiversity and 
+health. Alternative metrics deﬁning health are 
+needed to reﬂect the broad aspects of human health and well-being. Further, to increase collaboration across disciplines and sectors more attention could be paid to “translating” the meaning of key metrics to increase shared relevance. Similarly, frameworks provide a conceptual structure to build on for research, demonstration projects, policy and other purposes. Embracing a broad framework that aims to maximize the health 
+of ecosystems and humans both could help the 
+diﬀerent disciplines and sectors work more collaboratively. The conceptual framework of the IPBES, building upon that articulated in the Millennium Ecosystem Assessment, is a framework that links biodiversity to human well-being, considering also institutions and drivers of change.
+70. 
+The development of comparable tools–and 
+maximizing the use of existing tools–to promote a common evidence base across sectors is needed.  Tools ranging 
+from systematic assessment processes (for example, environmental impact assessments, strategic environmental assessments, risk assessments, and health impact assessments) 
+to the systematic reviews of research ﬁndings, 
+to standardized data collection forms to computerized modeling programs should also consider health-biodiversity linkages to manage future risks and safeguard ecosystem functioning while ensuring that social costs, including health impacts, associated with new measures and strategies do not outweigh potential beneﬁts;
+71. 
+The development of precautionary policies 
+that place a value on ecosystem services to 
+health, and make positive use of linkages between biodiversity and health are needed.  For example, for integrated disease 
+surveillance in wildlife, livestock and human populations as a cost-eﬀective measure to promote early detection and avoid the much 
+greater damage and costs of disease outbreaks;
+72. Measuring health effects of ecosystem 
+change considering established “exposure” 
+threshold values helps highlight 
+biodiversity-health-development linkages. 
+Mechanisms linking ecosystem change to health eﬀects are varied. For many sub-ﬁelds, exposure thresholds or standards have been scientiﬁcally established that serve as trigger points for taking action to avoid or minimize 
+disease or disability. For example, air quality standards exist for particle pollution, WHO has established minimum quantities of per capita water required to meet basic needs, and thresholds for food security deﬁne the quantity of food required to meet individual daily nutritional needs. Measuring the health eﬀects of ecosystem change relative to established threshold values highlights how such change constitutes exposure – an important principle linking cause and disease 
+or other health eﬀects –and encourages action 
+if thresholds are exceeded
+73. Economic valuation approaches linking 
+ecosystem functioning and health that 
+support decisions about resource allocation 
+may appeal to a variety of stakeholders . 
+Many approaches enhance understanding of ecosystem functioning and human health linkages. Common on the health side are environmental hazard or risk factor analyses. 
+20 Connecting Global Priorities: Biodiversity and Human HealthOthers include identifying and reducing 
+health disparities/inequities; focusing on environmental and socio-economic determinants of disease, and conducting health impact assessments. Conservation approaches include land-/seascape change modelling, vulnerability and adaptation 
+assessments, linked health and environmental 
+assessments and ecosystem service analyses.
+74. Further research is needed to elucidate 
+some of the potential knowledge gaps on linkages between biodiversity and human health. Examples of key questions include:a. What are the relationships between 
+biodiversity, biodiversity change and infectious diseases? Speciﬁcally, what are the eﬀects of species diversity, disturbance and human-wildlife contacts? What are the implications for spatial planning?
+b. What are the linkages between biodiversity 
+(including biodiversity in the food production system), dietary diversity and health? Is there a relationship between 
+dietary biodiversity and the composition and 
+diversity of the human microbiome? What are good indicators of dietary biodiversity? What are the cumulative health impacts of ecosystem alteration?
+THE SUSTAINABLE DEVELOPMENT 
+GOALS AND POST-2015 SUSTAINABLE DEVELOPMENT AGENDA
+75. Health and biodiversity, and the linkages 
+among them and with other elements 
+of sustainable development must be well integrated into the post-2015 developmentw agenda. The post-2015 
+development agenda provides a unique 
+opportunity to advance the parallel goals of improving human health and protecting biodiversity. The Sustainable Development Goals will address various aspects of human well-being and be accompanied by targets and indicators. Speciﬁc biodiversity related targets and indicators should be integrated into Goals on food security and nutrition, water and health. The SDG framework should also provide for the enabling conditions for human health and for the conservation and sustainable use of biodiversity, and for the 
+underlying drivers of both biodiversity loss and 
+ill-health to be addressed. This implies Goals for improved governance, and institutions, at appropriate scales (from local to global), for the management of risks and the negotiation 
+of trade-oﬀs among stakeholder groups, where 
+they exist, as well as for behavioural change.
+76. Ongo ing evaluation of synergistic and 
+antagonistic effects of complementary sustainable development goals and targets is needed.  This includes sustainable 
+development goals and targets addressing health, food and freshwater security, climate change and biodiversity loss and evaluate the long-term impacts of trade-oﬀs is needed; such as the trade-oﬀ and short-term gains 
+from intensive and unsustainable agricultural 
+production, against longer-term nutritional security. For example, the impacts of unsustainable agricultural practices that may exacerbate climatic pressures may also lead to greater food insecurity, particularly among 
+poor and vulnerable populations, by negatively 
+influencing its availability, accessibility, utilization and sustainability.
+77. Health is our most basic human right 
+and therefore one of the most important indicators of sustainable development. At the same time, the conservation and sustainable use of biodiversity is imperative for the continued functioning of ecosystems at all scales, and for the delivery of ecosystem services that are essential for human health . There are many 
+opportunities for synergistic approaches that promote both biodiversity conservation and the health of humans. However, in some cases there must be trade-oﬀs among these objectives. Indeed, becau se of the complexity 
+of interactions among the components of biodiversity at various tropical levels (including parasites and symbionts), and 
+21 Connecting Global Priorities: Biodiversity and Human Healthacross ecosystems at various scales (from 
+the planetary-scale biomes to human-microbial interactions), positive, negative and neutral links are quite likely to occur simultaneously. An enhanced understanding of health–biodiversity relationships will allow for the adjustment of interventions in both 
+sectors, with a view to promoting human well-
+being over the long-term.
+ISTOCKPHOTO22 Connecting Global Priorities: Biodiversity and Human Health
